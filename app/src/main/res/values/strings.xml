@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">qqMy Application</string>
+    <string name="app_name">petCam</string>
+    <string name="patch_date">191204</string>
+    <string name="default_ip">14.50.226.233</string>
+    <string name="default_port">8888</string>
+    <string name="button_connect">접속</string>
+    <string name="button_view">화면</string>
 </resources>
